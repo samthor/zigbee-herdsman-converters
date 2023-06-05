@@ -1,5 +1,13 @@
 # Changelog
 
+## [15.18.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.18.0...v15.18.1) (2023-06-05)
+
+
+### Bug Fixes
+
+* **ignore:** TS refactor ([9b361c8](https://github.com/Koenkk/zigbee-herdsman-converters/commit/9b361c8742d56d3e02723f49d289ec6cd9d2d15f))
+* TS refactor ([e1f8b3c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e1f8b3c537a99891dfb451734e52bfd2da643a20))
+
 ## [15.18.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.17.0...v15.18.0) (2023-06-05)
 
 
